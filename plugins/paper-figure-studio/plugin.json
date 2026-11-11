@@ -1,0 +1,12 @@
+{
+  "name": "paper-figure-studio",
+  "displayName": "顶会论文视图工坊 (Paper Figure Studio)",
+  "version": "1.0.0",
+  "description": "面向 ICML / NeurIPS / ICLR / ACL 等顶会论文的可编辑 PPTX + 矢量 PDF 直出工坊：内置论文符号与版心扫描器、AI 局部小素材抠图器、OOXML 原生公式 PPTX 绘图库，以及 LibreOffice + PyMuPDF 渲染回看与 6 项排版机检自检闭环。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "读取当前论文项目的 main.tex 与核心公式，用带渲染回看自检闭环的 PPTX + AI 局部素材路线直出 Method Overview 图（.pptx + .pdf）",
+    "为当前论文设计并生成符合 ICML 双栏字号与色盲友好规范的第 1 页 Intro 痛点对比视图，同时保留 PowerPoint 可编辑源文件",
+    "对现有的论文配图 .pptx 执行矢量 PDF 紧致裁切、打印字号缩比核验与双栏真机版面预览自检"
+  ]
+}

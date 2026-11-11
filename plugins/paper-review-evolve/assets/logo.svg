@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect x="6" y="6" width="52" height="52" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-width="2.5"/>
+  <!-- Document sheet -->
+  <rect x="15" y="13" width="24" height="32" rx="3" fill="#1E293B" stroke="#94A3B8" stroke-width="1.8"/>
+  <line x1="20" y1="20" x2="34" y2="20" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="26" x2="34" y2="26" stroke="#94A3B8" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="20" y1="32" x2="29" y2="32" stroke="#94A3B8" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Rising convergence curve -->
+  <path d="M16 48 C24 47, 29 41, 36 33 C41 27, 46 24, 51 23" stroke="#10B981" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="23" cy="46" r="2.5" fill="#F59E0B"/>
+  <circle cx="36" cy="33" r="2.8" fill="#38BDF8"/>
+  <circle cx="51" cy="23" r="3.2" fill="#10B981"/>
+  <!-- Shield / Check badge -->
+  <circle cx="45" cy="43" r="9" fill="#0F172A" stroke="#10B981" stroke-width="2.2"/>
+  <path d="M41 43.2 L43.8 46 L49.2 40.5" stroke="#10B981" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- 10% outer margin: content stays inside [26, 230] -->
+  <rect x="28" y="28" width="200" height="200" rx="38" fill="#182232" stroke="#3B82F6" stroke-width="6"/>
+  <!-- Top subtle academic grid -->
+  <path d="M56 84 H200 M56 128 H200 M56 172 H200" stroke="#2A3B54" stroke-width="2" stroke-dasharray="5 5"/>
+  <!-- Left editable PPT node -->
+  <rect x="52" y="64" width="58" height="44" rx="9" fill="#DBEAFE" stroke="#60A5FA" stroke-width="4"/>
+  <circle cx="81" cy="86" r="10" fill="#2563EB"/>
+  <!-- Right vector formula badge -->
+  <rect x="146" y="64" width="58" height="44" rx="9" fill="#D1FAE5" stroke="#34D399" stroke-width="4"/>
+  <path d="M163 91 L173 77 L183 95 L191 81" fill="none" stroke="#059669" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Connector arrow -->
+  <path d="M112 86 H140" fill="none" stroke="#F8FAFC" stroke-width="4.5" stroke-linecap="round"/>
+  <polygon points="144,86 134,80 134,92" fill="#F8FAFC"/>
+  <!-- Bottom closed-loop inspect bar -->
+  <rect x="52" y="136" width="152" height="58" rx="12" fill="#FEF3C7" stroke="#F59E0B" stroke-width="4"/>
+  <text x="96" y="173" font-family="Cambria Math, Georgia, serif" font-size="30" font-weight="bold" font-style="italic" fill="#1E293B">f(z</text>
+  <text x="133" y="180" font-family="Cambria Math, Georgia, serif" font-size="19" font-weight="bold" fill="#B45309">i</text>
+  <text x="142" y="173" font-family="Cambria Math, Georgia, serif" font-size="30" font-weight="bold" font-style="italic" fill="#1E293B">)</text>
+  <!-- Magnifier check badge -->
+  <circle cx="177" cy="165" r="15" fill="#10B981"/>
+  <path d="M170 165 L175 170 L185 159" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

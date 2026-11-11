@@ -1,0 +1,13 @@
+{
+  "name": "paper-review-evolve",
+  "displayName": "顶会论文盲审自进化与科研配图工坊 (Research & Review Studio)",
+  "version": "1.0.0",
+  "description": "集成了「顶会论文零上下文三视角 PC 盲审自进化闭环 (paper-review-evolve)」与「可编辑 PPTX + 矢量 PDF 顶会配图生成闭环 (paper-figure-studio)」的双核学术研究与论文打磨插件。",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/qianyue1729/reasearch-and-review",
+  "suggestedPrompts": [
+    "启动顶会盲审自进化闭环：检索近两年同赛道顶会标杆，对当前论文发起零上下文三视角 PC 盲审并迭代修改至分数收敛",
+    "使用 paper-figure-studio 为当前论文设计或重绘首屏 Figure 1 动机图与方法架构图（同时生成可编辑 .pptx 与矢量 .pdf）",
+    "运行 review_cli.py audit 与 debloat-check，检查摘要词数、表格旗舰排序、匿名元数据并导出中文 Oral 演讲指南"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "paper-review-evolve",
+  "displayName": "顶会论文盲审自进化工坊 (Paper Review & Self-Evolution)",
+  "version": "1.0.0",
+  "description": "顶会学术论文（IEEE S&P / CCS / USENIX Security / ICML / NeurIPS / ICLR / ACL / OSDI 等）的「零上下文三视角盲审 + 真凭实据修补 + 单源真值棘轮 + 收敛去臃肿与 Oral 报告生成」全流程闭环插件。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "启动顶会盲审自进化闭环：先检索近两年同赛道顶会标杆，对当前论文发起零上下文三视角 PC 盲审并迭代修改至分数收敛",
+    "运行 review_cli.py audit 与 debloat-check，检查当前论文的摘要词数、表格旗舰排序、Overfull hbox 及匿名 PDF 元数据清洗",
+    "查看当前论文的多轮盲审分数演化账本，并生成收敛后的中文 Oral 汇报文档与高清配图包"
+  ],
+  "repository": "https://github.com/qianyue1729/reasearch-and-review"
+}
